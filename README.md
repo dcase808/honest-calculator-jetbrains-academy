@@ -1,1 +1,2 @@
-# honest-calculator-jetbrains-academy
+# Honest calculator - JetBrains Acadamy
+Simple Python project from JetBrains Academy.
